@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=8FBF6A&center=true&vCenter=true&width=600&lines=Building+things+that+grow+%F0%9F%8C%B1;Always+learning%2C+always+branching+out;Open+to+collaborating+on+cool+projects" alt="Typing intro" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=GremlinNebby&label=visitors&color=2d6a3e&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/GremlinNebby?label=followers&style=flat-square&color=2d6a3e&labelColor=0b1f14" alt="Followers" />
   <img src="https://img.shields.io/badge/pronouns-he%2Fhim-2d6a3e?style=flat-square&labelColor=0b1f14" alt="Pronouns: he/him" />
@@ -18,7 +12,7 @@
 
 ## 🌲 About Me
 
-- 🌿 I'm currently working on a project involving my local public school district.
+- 🌿 I'm currently working on a top secret project involving my local public school district.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
