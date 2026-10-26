@@ -55,9 +55,6 @@
   <img src="https://streak-stats.demolab.com?user=GremlinNebby&border_radius=12&background=0B1F14&border=1F4D2C&stroke=1F4D2C&ring=52A36B&fire=8FBF6A&currStreakNum=C9E4A8&sideNums=C9E4A8&currStreakLabel=8FBF6A&sideLabels=A9C99A&dates=6E8F64" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GremlinNebby&bg_color=0B1F14&color=A9C99A&line=52A36B&point=C9E4A8&area=true&area_color=2D6A3E&title_color=8FBF6A&hide_border=false&border_color=1F4D2C&radius=12" alt="Contribution graph" width="100%" />
-</p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
