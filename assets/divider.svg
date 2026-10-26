@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40">
+<defs><symbol id="pine" viewBox="0 0 40 100"><path d="M20 0L28 22H24L32 42H27L36 64H30L40 86H22V100H18V86H0L10 64H4L13 42H8L16 22H12Z"/></symbol><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#2D6A3E" stop-opacity="0"/><stop offset=".5" stop-color="#52A36B"/><stop offset="1" stop-color="#2D6A3E" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="27" width="1200" height="2" fill="url(#ln)"/>
+<g fill="#52A36B">
+<use href="#pine" x="566" y="12" width="12" height="30"/>
+<use href="#pine" x="589" y="2" width="16" height="40"/>
+<use href="#pine" x="618" y="12" width="12" height="30"/>
+</g>
+</svg>
