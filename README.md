@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GremlinNebby&label=visitors&color=2d6a3e&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/GremlinNebby?label=followers&style=flat-square&color=2d6a3e&labelColor=0b1f14" alt="Followers" />
+  <img src="https://img.shields.io/badge/pronouns-he%2Fhim-2d6a3e?style=flat-square&labelColor=0b1f14" alt="Pronouns: he/him" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -21,14 +22,28 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+## 🎓 Education
+
+- 🌳 **Technical Diploma, IT – Software Development Specialist** · Waukesha County Technical College · March 2026 · [View diploma](./assets/diploma.pdf)
+- 🌱 **Associate Degree, Web and Software Development** · almost finished
+- 📱 **Mobile Programming Certificate** · in progress
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ## 🧰 Toolkit
 
 <p>
   <img src="https://img.shields.io/badge/Python-1F4D2C?style=for-the-badge&logo=python&logoColor=C9E4A8" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-1F4D2C?style=for-the-badge&logo=javascript&logoColor=C9E4A8" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-1F4D2C?style=for-the-badge&logo=typescript&logoColor=C9E4A8" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-1F4D2C?style=for-the-badge&logo=openjdk&logoColor=C9E4A8" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-1F4D2C?style=for-the-badge&logo=dotnet&logoColor=C9E4A8" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL-1F4D2C?style=for-the-badge&logo=sqlite&logoColor=C9E4A8" alt="SQL" />
+  <img src="https://img.shields.io/badge/Vue.js-1F4D2C?style=for-the-badge&logo=vuedotjs&logoColor=C9E4A8" alt="Vue.js" />
   <img src="https://img.shields.io/badge/React-1F4D2C?style=for-the-badge&logo=react&logoColor=C9E4A8" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-1F4D2C?style=for-the-badge&logo=nodedotjs&logoColor=C9E4A8" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Jupyter-1F4D2C?style=for-the-badge&logo=jupyter&logoColor=C9E4A8" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Vercel-1F4D2C?style=for-the-badge&logo=vercel&logoColor=C9E4A8" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-1F4D2C?style=for-the-badge&logo=git&logoColor=C9E4A8" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-1F4D2C?style=for-the-badge&logo=visualstudiocode&logoColor=C9E4A8" alt="VS Code" />
 </p>
